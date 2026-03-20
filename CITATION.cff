@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Introducing Bundleblur: A Computational Framework for Behavioral Economics"
+authors:
+  - name: "Economic Research Collective"
+version: "1.0.0"
+date-released: "2026-02-17"
+license: MIT
+repository-code: "https://github.com/EconomicTermDevelopments/bundleblur-economics"
+keywords:
+  - economics
+  - bundleblur
+  - behavioral-economics
+  - computational-framework
+  - emerging-terminology
+abstract: "Bundleblur is defined here as intentional obfuscation through complex bundling preventing price comparison. This paper develops Bundleblur as a computational framework for behavioral economics by linking the concept to strategic obfuscation through product/service bundling that impairs price comparison, formalizing complex package architecture raising search and cognitive costs to weaken consumer price discipline, and operationalizing Bundleblur with a transparent index built from channels such as bundle complexity, opaque fee share, add on density, and comparability gap, while also showing how Bundleblur can support comparative statics, empirical measurement, and policy simulation in reproducible economic research."

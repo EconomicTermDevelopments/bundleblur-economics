@@ -1,0 +1,27 @@
+{
+  "term": "Bundleblur",
+  "definition": "Intentional obfuscation through complex bundling preventing price comparison.",
+  "etymology": "Compound of \"bundle\" and \"blur,\" indicating how bundling can blur price transparency and comparability.",
+  "field": "Behavioral Economics",
+  "subfields": [
+    "Behavioral Economics",
+    "Industrial Organization",
+    "Digital/Platform Markets"
+  ],
+  "jel_codes": [
+    "D11",
+    "D18",
+    "L11",
+    "M31"
+  ],
+  "synonyms": [
+    "bundling obfuscation intensity"
+  ],
+  "related_concepts": [
+    "Price obfuscation",
+    "Shrouded attributes",
+    "Complex pricing"
+  ],
+  "first_usage": "2026",
+  "status": "emerging"
+}
